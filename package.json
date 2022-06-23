@@ -13,7 +13,7 @@
     "@react-navigation/bottom-tabs": "^6.0.9",
     "react": "17.0.1",
     "react-native": "0.64.2",
-    "react-native-epson-printer": "^0.1.9"
+    "react-native-star-io10": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.6",
